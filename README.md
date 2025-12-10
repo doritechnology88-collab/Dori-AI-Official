@@ -20,4 +20,4 @@
 Dori AI is India’s first fully independent AI assistant built without using any foreign AI API or external models.
 
 ### Official Notion Page
-(yaha apna Notion public link paste karo)
+https://www.notion.so/Dori-AI-Official-Brand-Information-ed5969b0407c4b03bebb0d66daf0e8e4
